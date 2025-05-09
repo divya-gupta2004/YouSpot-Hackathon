@@ -130,15 +130,6 @@ We welcome contributions to improve YouSpot! Please follow these steps:
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
----
 
-## **Acknowledgments**
-Special thanks to our mentors and the hackathon judges for their guidance. A heartfelt thank you to Butuk Sharma and Nidhi for their invaluable support.
 
----
 
-## **Contact**
-For queries or collaboration opportunities, feel free to reach out:
-- **Name:** Divyanshu Pandey
-- **LinkedIn:** [www.linkedin.com/in/divyanshu-pandey-b51556286]
-- **Email:** divyanshupandey9329@gmail.com
